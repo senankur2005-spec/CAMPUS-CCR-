@@ -258,8 +258,6 @@ Screenshots are available in the `screenshots/` folder:
 
 - File system structure
 
-  ![Eclipse Installer](screenshots/File%20location.jpeg)
-
   ![Eclipse Installer](screenshots/Package%20Structure.jpeg)
 
 ## Future Enhancements
