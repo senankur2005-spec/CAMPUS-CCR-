@@ -27,7 +27,7 @@ Located in `test-data/courses.csv`:
 ```
 Code,Title,Credits,Department
 CS101,Introduction to Programming,3,COMPUTER_SCIENCE
-EE101,Circuit Analysis,4,ELECTRICAL_ENGINEERING
+CH101,Chemical Process Principles,3,CHEMICAL_ENGINEERING
 ```
 
 ## Common Operations
