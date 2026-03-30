@@ -18,8 +18,8 @@ java -Ddebug=true edu.ccrm.Main
 Located in `test-data/students.csv`:
 ```
 ID,RegNo,FullName,Email,Department
-CS001,24BCE10335,Aditya Das,aditya.das@university.edu,COMPUTER_SCIENCE
-EE001,24BCE10234,Tejaswa Sharma,tejaswa.sharma@university.edu,ELECTRICAL_ENGINEERING
+CS001,24BAI10281,Ankur Sen,ankur.sen@university.edu,COMPUTER_SCIENCE
+EE001,24BAI10024,Samay Dutta,samay.dutta@university.edu,CHEMICAL_ENGINEERING
 ```
 
 ### Course Import CSV Format
