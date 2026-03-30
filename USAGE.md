@@ -37,7 +37,7 @@ EE101,Circuit Analysis,4,ELECTRICAL_ENGINEERING
 2. Select option 1 (Add Student)
 3. Enter details as prompted:
    - Student ID (e.g., CS002)
-   - Registration Number (e.g., 24BCE10335)
+   - Registration Number (e.g., 24BAI10281)
    - Full Name
    - Email
    - Department
